@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Broken-Champion
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS async programming
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web pages
 - 📫 How to reach me ahmad01116647631@gmail.com
 - 
